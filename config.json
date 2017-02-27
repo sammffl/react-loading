@@ -1,0 +1,10 @@
+{
+  "use": [
+    "autoprefixer"
+  ],
+  "input": "./static/loading.css",
+  "output": "./static/loading.css",
+  "autoprefixer": {
+    "browsers": "> 5%"
+  }
+}
