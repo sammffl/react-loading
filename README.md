@@ -2,7 +2,6 @@
 
 主页面
 ```javascript
-import Loading from '@yzt/react-loading';
 ...
 <Loading 
     type="circle" 
